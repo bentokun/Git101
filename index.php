@@ -23,7 +23,7 @@
           <li class="hov-primary">Payment</li>
         </a>
         <a href="./">
-          <li class="hov-primary">Paymentmethod</li>
+          <li class="hov-primary">Payment method</li>
         </a>
         <a href="./">
           <li class="hov-primary">CounterParties</li>
